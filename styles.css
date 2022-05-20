@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    flex: auto;
+    justify-content: space-between;
+    background-color: #1f2937;
+}
+img {
+    max-width: 200px;
+}
+h1 {
+    display: flex;
+    background-color: #1f2937;
+}
